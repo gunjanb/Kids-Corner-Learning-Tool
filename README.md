@@ -1,6 +1,4 @@
-# Project-1
-
-## Kid's Corner - Learning Tool
+# Kid's Corner - Learning Tool
 
 ---
 
